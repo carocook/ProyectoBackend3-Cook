@@ -1,4 +1,4 @@
-# Backend3-Cook
+# Backend3
 
 Proyecto desarrollado como entrega del curso de Backend.
 
